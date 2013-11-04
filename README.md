@@ -1,14 +1,11 @@
 YesWeScore
 =======
 
-batchs/  : directory containing batch scripts. ex: db migration.
-bin/     : scripts used in dev/prod to start/stop, deploy the api server.
-client/  : cordova project root directory
-data/    : server data (should be outside git env)
-doc/     : documentation test #fail
-scripts/ : scripts
-server/  : nodejs api server root directory
-ut/      : unit tests
+batchs/  : db upgrade / reset / scripts.<br/>
+bin/     : scripts used in dev/prod to start/stop, deploy the api server.<br/>
+data/    : server data (should be outside git env)<br/>
+server/  : nodejs api server root directory<br/>
+ut/      : unit tests<br/>
 
 
 License
@@ -16,8 +13,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2013 marc.dassonneville@gmail.com
-Copyright (c) 2013 vt3ktek@hotmail.com
+Copyright (c) 2013 marc.dassonneville@gmail.com, vt3ktek@hotmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
